@@ -1,2 +1,0 @@
-# first-clone
-first-clone
